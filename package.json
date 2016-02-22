@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "sambell run routes"
+  },
+  "dependencies": {
+    "immutable": "^3.7.6",
+    "redux-act": "^0.4.0",
+    "sambell": "^0.1.22"
+  }
+}
